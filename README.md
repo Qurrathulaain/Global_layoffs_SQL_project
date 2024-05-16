@@ -14,7 +14,7 @@ The purpose of this project is to clean the data in SQL and to perform Explorato
 - Data Analysis:Perform exploratory data analysis on the cleaned data using joins,ctes,subqueries,aggregate functions and window functions.
 
 ## Conclusion:
-The Global Layoff project in MySQL is a comprehensive solution for managing employee layoffs on a global scale. By centralizing data, automating processes, ensuring compliance, and providing valuable insights, the project helps organizations navigate challenging workforce transitions with efficiency, transparency, and accountability.
+The Global Layoff project in MySQL is a comprehensive solution for managing employee layoffs on a global scale. By centralizing data, automating processes, ensuring compliance, and providing valuable insights, the project helps organizations navigate challenging workforce transitions with efficiency, transparency, and accountability.  
 
 
 
